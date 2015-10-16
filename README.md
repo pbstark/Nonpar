@@ -6,4 +6,4 @@
 
 This is a series of Jupyter notebooks using Python.
 To view it in a browser using nbviewer online without installing software,
-navigate to http://nbviewer.ipython.org/github/pbstark/Nonpar/blob/master/index.ipynb
+navigate to http://nbviewer.ipython.org/github/pbstark/Nonpar/tree/master/
